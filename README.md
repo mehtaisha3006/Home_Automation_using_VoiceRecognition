@@ -1,0 +1,2 @@
+# Home_Automation_using_VoiceRecognition
+Home Automation using Voice recognition is the iot based project which is used to control the home appliances by voice command. An Android app is build  using speech recognizer to send the commands by voice.The speech recoginzer uses the commands and send it to the nodemcu(ESP8266) wifi module which turns on or off the device. The fan,door and led are automated using the app. Node mcu is used  as microntroller, Arduino Ide is used to code and MIT app inventor is used to develop app,relay ,servo motor, bo motor is used for devices.
